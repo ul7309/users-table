@@ -48,11 +48,11 @@ export default {
       users: [
         {
           name: 'Марина',
-          phone: '3',
+          phone: '+7 941 123 21 42',
         },
         {
           name: 'Петр',
-          phone: '1',
+          phone: '+7 941 123 21 40',
         },
       ],
       isModalVisible: false,
